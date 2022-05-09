@@ -18,6 +18,7 @@ lists
       * insidelist1
         * insidelist1
 
+<br>
 
 <br>
 table
@@ -35,4 +36,20 @@ id|name|age
 <br>
 image
 
-![sampleImage](https://www.google.com/search?q=images&rlz=1C5CHFA_enIN959IN959&source=lnms&tbm=isch&sa=X&ved=2ahUKEwimwZuPrdL3AhW5SGwGHZNSBPYQ_AUoAXoECAEQAw&biw=896&bih=1016&dpr=2#imgrc=ISsdmwh92GPtrM)
+![sampleImage](https://images.ctfassets.net/hrltx12pl8hq/1kSlS6H6YMm30e0Mkr86Hc/930fef722ebc9fb51f80d8bb0e372596/IHP_3_24.png?fit=fill&w=600&h=400)
+<br>
+**Star star is used to make bold**
+__double underscore is used to make bold__
+<br>
+_Single underscore is used to make italic_
+<br>
+~~double tilda is used to strike the text~~
+<br>
+***tripple stars are used to make bold and itlaic***
+<br>
+>This is for quoting for text
+`this is used to highlight in a sentense`
+**this make me bold **
+```
+this is used to represent a block of code
+```
